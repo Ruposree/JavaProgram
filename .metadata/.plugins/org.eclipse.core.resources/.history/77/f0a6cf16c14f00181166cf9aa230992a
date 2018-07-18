@@ -1,0 +1,23 @@
+package arrays;
+
+import java.util.Scanner;
+
+public class Demo1 {
+	static Scanner sc=new Scanner(System.in);
+	
+	public static int[] CreateArrayDynamically() {
+		
+		System.out.println("Enter the number");
+		int[] arr=new int [sc.nextInt()];
+		
+		return arr;
+	
+	
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

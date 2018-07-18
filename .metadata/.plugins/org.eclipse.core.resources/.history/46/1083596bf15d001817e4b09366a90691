@@ -1,0 +1,13 @@
+package Combine;
+
+public class powerofAnumber {
+
+	public static void power(int n,int p) {
+		
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}

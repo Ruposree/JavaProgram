@@ -1,0 +1,20 @@
+package Combine;
+
+public class powerofAnumber {
+
+	public static int power(int n,int p) {
+		int i=1;
+		int j=0;
+		while(i<=p) {
+			j=n*p;
+			i++;
+		}
+		
+		return j;
+	}
+	public static void main(String[] args) {
+		
+System.out.println(power(2,3));
+	}
+
+}

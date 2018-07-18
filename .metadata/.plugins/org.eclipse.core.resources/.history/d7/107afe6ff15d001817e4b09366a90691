@@ -1,0 +1,17 @@
+package Combine;
+
+public class powerofAnumber {
+
+	public static void power(int n,int p) {
+		int i=1; 
+		while(i<=p)
+			n=n*p;
+		i++;
+		
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}
